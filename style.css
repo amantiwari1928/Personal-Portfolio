@@ -227,9 +227,9 @@ p{
 }
 /* responsive */
 @media (max-width: 1535px) {
-    .devPic img{
+/*     .devPic img{
         height: 30vh;
-    }
+    } */
     .sidebar{
         background-color: lightblue;
         height: 100vh;
