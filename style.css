@@ -227,7 +227,7 @@ p{
 }
 /* responsive */
 @media (max-width: 1535px) {
-    .devPic{
+    .devPic img{
         height: 10vh;
     }
     .sidebar{
